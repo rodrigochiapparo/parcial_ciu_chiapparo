@@ -1,0 +1,26 @@
+header{
+  background-color:black;
+}
+
+#titulo{
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+
+.tabla{
+
+        display: flex;
+        flex-direction: column;
+        width: 320px;
+        margin-top: 24px;
+      
+}
+.col-form-label{
+  color: black;
+}
+.modal-title{
+  color: black;
+}
+
+.filaSeleccionada{
+  font-weight:bold;
+}
